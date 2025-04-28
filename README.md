@@ -30,6 +30,6 @@ El proyecto consiste en los siguientes archivos:
         </ul>
     </section>
     ```
-[Enlace al Proyecto](https://github.com/RafaelvBossio/Changelog)
+[Enlace al Proyecto](https://roadmap.sh/projects/changelog-component)
 
 Este repositorio contiene un ejemplo de un Changelog estilizado utilizando únicamente HTML y CSS...
