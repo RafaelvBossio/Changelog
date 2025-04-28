@@ -7,7 +7,7 @@ Este repositorio contiene un ejemplo de un Changelog estilizado utilizando únic
 El proyecto consiste en los siguientes archivos:
 
 * `index.html`: Contiene la estructura HTML del Changelog.
-* `style.css`: Define los estilos CSS para la presentación del Changelog.
+* `styles.css`: Define los estilos CSS para la presentación del Changelog.
 
 ## Cómo Utilizarlo
 
@@ -30,3 +30,6 @@ El proyecto consiste en los siguientes archivos:
         </ul>
     </section>
     ```
+[Enlace al Proyecto](https://github.com/RafaelvBossio/Changelog)
+
+Este repositorio contiene un ejemplo de un Changelog estilizado utilizando únicamente HTML y CSS...
