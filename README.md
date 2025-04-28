@@ -33,3 +33,5 @@ El proyecto consiste en los siguientes archivos:
 [Enlace al Proyecto](https://roadmap.sh/projects/changelog-component)
 
 Este repositorio contiene un ejemplo de un Changelog estilizado utilizando únicamente HTML y CSS...
+
+[mustra del sitio](https://i.ibb.co/4RyWCvgp/screenshot-1745814601827.png)
