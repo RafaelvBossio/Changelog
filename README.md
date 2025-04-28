@@ -12,16 +12,21 @@ El proyecto consiste en los siguientes archivos:
 ## Cómo Utilizarlo
 
 1.  **Descarga los archivos:** Clona este repositorio o descarga los archivos `index.html` y `styles.css`.
-2.  **Edita `index.html`:** Abre el archivo `index.html` con un editor de texto. Dentro de la sección `<body>`, encontrarás la estructura básica para las entradas del Changelog. Cada entrada sigue un patrón similar:
+2.  **Edita `index.html`:** Abre el archivo `index.html` con un editor de texto. Dentro de la sección `<body> <main>`, encontrarás la estructura básica para las entradas del Changelog. Cada entrada sigue un patrón similar:
 
     ```html
-    <div class="version">
-        <h3>Versión 1.0.0 - <span class="date">2025-04-26</span></h3>
+    <section id="v1.0.0">
+        <div>
+            <h2>Version 1.0.0</h2>
+            <div class="release-info">
+                <p>Release date: <span>2023-01-01</span></p>
+                <p>Initial release of the application.</p>
+            </div>
+        </div>
         <ul>
-            <li><span class="feature">Nuevo:</span> Descripción de la nueva funcionalidad.</li>
-            <li><span class="fix">Corrección:</span> Descripción de la corrección de errores.</li>
-            <li><span class="improvement">Mejora:</span> Descripción de la mejora realizada.</li>
-            <li><span class="breaking">Cambio drástico:</span> Descripción del cambio que puede romper la compatibilidad.</li>
+            <li><a href="#"><i class="fas fa-check"></i>Feature A implemented.</a></li>
+            <li><a href="#"><i class="fas fa-check"></i>Feature B implemented.</a></li>
+            <li><a href="#"><i class="fas fa-bug"></i>Bug fix for issue #1.</a></li>
         </ul>
-    </div>
+    </section>
     ```
